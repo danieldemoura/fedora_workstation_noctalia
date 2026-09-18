@@ -44,7 +44,7 @@ chmod +x install.sh
 Se você não quer clonar o repositório inteiro, baixe apenas o script diretamente:
 
 ```bash
-curl -o install.sh https://gist.githubusercontent.com/danieldemoura/b5ad939ff4a324cfa0c0414a0e324832/raw/fedora-noctalia
+curl -o install.sh https://gist.githubusercontent.com/danieldemoura/b5ad939ff4a324cfa0c0414a0e324832/raw/fedora_workstation_noctalia
 chmod +x install.sh
 ./install.sh
 ```
@@ -54,7 +54,7 @@ chmod +x install.sh
 Ou, em uma linha só (baixa e executa direto):
 
 ```bash
-bash <(curl -fsSL https://gist.githubusercontent.com/danieldemoura/b5ad939ff4a324cfa0c0414a0e324832/raw/fedora-noctalia)
+bash <(curl -fsSL https://gist.githubusercontent.com/danieldemoura/b5ad939ff4a324cfa0c0414a0e324832/raw/fedora_workstation_noctalia)
 ```
 
 > ⚠️ **Atenção:** sempre revise scripts antes de executar com `bash <(curl ...)`. Para inspecionar o conteúdo antes, use a opção de download (`curl -o`) acima.
